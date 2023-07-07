@@ -1,5 +1,5 @@
 # Lap-shop
-# Web application for selling laptops. ( created with asp.net core MVC )
+## Web application for selling laptops. ( created with asp.net core MVC )
 Website includes the following set features implemented.
 
 + authentication and authorization
@@ -25,3 +25,5 @@ Website includes the following set features implemented.
 + Admin pannel to manage products CRUD operations
 
 + Image uploading for each product and category
+
+### Website

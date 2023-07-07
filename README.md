@@ -33,7 +33,20 @@
 
 
 
-##Build with the following technologies:
-
+## Build with the following technologies:
++ Asp.Net core MVC
++ Asp.net Web Apis
++ Asp,net Identity framework
++ Sql server
++ C#
++ entity framework core 6
++ html
++ razor
++ css
++ scss
++ js
++ jquery
++ js plugins
++ ajax
 
 

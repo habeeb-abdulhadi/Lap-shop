@@ -1,4 +1,4 @@
 # Lap-shop
 # Web application for selling laptops. ( created with asp.net core MVC )
-Website includes the following set features implemented.
-#000000 authentication and authorization
+## Website includes the following set features implemented.
+### #000000 authentication and authorization

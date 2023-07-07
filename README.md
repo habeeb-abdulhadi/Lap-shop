@@ -4,7 +4,7 @@ Website includes the following set features implemented.
 
 + authentication and authorization
 
-+Roles for diffenent users with different capabilities
++ Roles for diffenent users with different capabilities
 
 + shopping cart CRUD operations with cookies(anonymous user) and session (logged in user).
 

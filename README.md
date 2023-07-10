@@ -7,7 +7,7 @@
 + Roles for diffenent users with different capabilities
 
 + shopping cart CRUD operations with cookies(anonymous user) and session (logged in user).
-
++ Email Register Confirmation 
 + orders fullfillment.
 
 + tracking orders.

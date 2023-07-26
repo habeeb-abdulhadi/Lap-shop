@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "+VhEffx89xPXmo/zszAURG65ulnlFrbP7AeBTos+z74=",
+  "Source": "Domains",
+  "BasePath": "_content/Domains",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Domains\\wwwroot",
+      "Source": "Domains",
+      "ContentRoot": "E:\\asp.net\\LapShop\\LapShop\\Domains\\wwwroot\\",
+      "BasePath": "_content/Domains",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\asp.net\\LapShop\\LapShop\\Domains\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Domains.styles.css",
+      "SourceId": "Domains",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\asp.net\\LapShop\\LapShop\\Domains\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/Domains",
+      "RelativePath": "Domains.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\asp.net\\LapShop\\LapShop\\Domains\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Domains.styles.css"
+    },
+    {
+      "Identity": "E:\\asp.net\\LapShop\\LapShop\\Domains\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Domains.bundle.scp.css",
+      "SourceId": "Domains",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\asp.net\\LapShop\\LapShop\\Domains\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/Domains",
+      "RelativePath": "Domains.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\asp.net\\LapShop\\LapShop\\Domains\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Domains.bundle.scp.css"
+    },
+    {
+      "Identity": "E:\\asp.net\\LapShop\\LapShop\\Domains\\wwwroot\\background.png",
+      "SourceId": "Domains",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\asp.net\\LapShop\\LapShop\\Domains\\wwwroot\\",
+      "BasePath": "_content/Domains",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "E:\\asp.net\\LapShop\\LapShop\\Domains\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "Domains",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\asp.net\\LapShop\\LapShop\\Domains\\wwwroot\\",
+      "BasePath": "_content/Domains",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
+    }
+  ]
+}

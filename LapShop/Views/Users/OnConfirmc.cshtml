@@ -1,0 +1,28 @@
+﻿@model messagConfirm 
+<!-- thank-you section start -->
+<section class="section-b-space light-layout">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                @if (Model.StatusMessage != "Error confirming your email.")
+                {
+                    <div class="success-text">
+                    <i class="fa fa-check-circle" aria-hidden="true"></i>
+                    <h2>thank you</h2>
+                        <p>@Model.StatusMessage </p>
+                    </div>
+                }
+                else
+                {
+                    <div class="success-text">
+                        
+                        <h2>failed confirm</h2>
+                            <p>@Model.StatusMessage </p>
+                        </div>
+                }
+              
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Section ends -->

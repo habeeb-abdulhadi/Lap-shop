@@ -9,7 +9,7 @@ namespace LapShop.Models
         public async Task SendEmailAsync(string email, string subject, string htmlMessage)
         {
             var fMail = "abujad602@gmail.com";
-            var fPassword = "yemvpnmstvlortcs";
+            var fPassword = "";
             //var theMsg = new MailMessage();
             //theMsg.From = new MailAddress(fMail);
             //theMsg.Subject = subject;
